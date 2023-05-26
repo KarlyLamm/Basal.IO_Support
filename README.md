@@ -15,3 +15,6 @@ Basial.IO also offers an endless supply of affirmations that regenerate on each 
 3. Affirmation page
 - A randomly generated affirmation will load, as well as a pro tip on best form of practice upon the first entry to this page during this session.
 - A regenerate button to show a different affirmation if you're not feeling the first, or just need some extra love
+
+## Questions, comments, and/or concerns
+Contact: BasalDOTIO@gmail.com
